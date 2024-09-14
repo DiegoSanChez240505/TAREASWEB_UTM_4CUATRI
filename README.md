@@ -15,3 +15,6 @@ Alumno: Diego Alexander Sánchez Ek
 Grupo 4D
 
 Primer Parcial
+
+Que cambios se notaron?
+Los unicos cambios que hicimos fueron creara dos carpetas, en una estaba el archivo JSON que contenia todos los datos y la otra fue en donde estaria la logica del repositorio para que pudiera aplicar operaciones CRUD y interactuar con el archivo JSON y pudiera devolver las solicitudes, ademas tambien configuramos la conexion al archivo JSON para que pudieramos hacer uso de los datos
